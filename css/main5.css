@@ -1,0 +1,346 @@
+a{
+	font-family: 'Courier New', Courier, monospace;
+	margin-top: 30px;
+	margin-left:6vw;
+	text-decoration: none;
+	font-weight: 400;
+	color: rgba(0,0,0,0.8);
+}
+
+a:hover{
+	color: white;
+}
+
+.header{
+	position: absolute;
+	width: 91vw;
+	height: auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: 20vw 20vw 20vw 20vw 20vw;
+	background-color:palegoldenrod;
+	margin: -10px;
+  }
+
+  .grid-item {
+	width: auto;
+	height: 20vh;
+	padding: 0;
+	font-size: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+  }
+
+  .item{
+	  width: 35px;
+	  height: 60px;
+	  background-color: #009d53;
+	  z-index: 1;
+	  border-radius: 0px;
+  }
+
+
+
+
+@media (max-width: 1400px) { 
+	.item#one{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+	}
+}
+
+@media (max-width: 1375px) { 
+	.item#two{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+	}
+}
+
+
+@media (max-width: 1350px) { 
+	.item#three{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+
+@media (max-width: 1325px) { 
+	.item#four{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+
+@media (max-width: 1300px) { 
+	.item#five{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 1275px) { 
+	.item#six{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+
+@media (max-width: 1250px) { 
+	.item#seven{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 1225px) { 
+	.item#eight{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+
+@media (max-width: 1200px) { 
+	.item#nine{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 1175px) { 
+	
+}
+
+
+@media (max-width: 1150px) { 
+	.item#six{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+
+@media (max-width: 1125px) { 
+	
+}
+
+@media (max-width: 1100px) { 
+	.item#seven{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 1075px) { 
+	
+}
+
+@media (max-width: 1050px) { 
+	.item#eight{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 1250px) { 
+	
+}
+
+@media (max-width: 1025px) { 
+	.item#nine{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 1000px) { 
+	.item#ten{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 975px) { 
+	.item#eleven{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+@media (max-width: 950px) { 
+	.item#twelve{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 925px) { 
+	.item#thirteen{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 900px) { 
+	.item#fourteen{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 875px) { 
+	.item#fifteen{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 850px) { 
+	.item#sixteen{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 825px) { 
+	.item#seventeen{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 800px) { 
+	.item#eighteen{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 775px) { 
+	.item#nineteen{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 750px) { 
+	.item#twenty{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 725px) { 
+	.item#twenty-one{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+
+@media (max-width: 700px) { 
+	.item#twenty-two{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+	}
+}
+
+@media (max-width: 675px) { 
+	.item#twenty-three{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+
+@media (max-width: 650px) { 
+	.item#twenty-four{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+@media (max-width: 625px) { 
+	.item#twenty-five{	
+		height: 60px;
+		transform: rotate(45deg);
+		background-color:white;
+
+}
+
+
+@media (max-width: 600px) { 
+	.box{
+	}
+}
+
+@media (max-width: 575px) { 
+
+}
+
+@media (max-width: 550px) { 
+	.box{
+	}
+}
+
+@media (max-width: 525px) { 
+
+}
+
+@media (max-width: 500px) { 
+
+}
+
+@media (max-width: 475px) { 
+
+}
+
+@media (max-width: 450px) { 
+
+}
+
+@media (max-width: 425px) { 
+
+}
+
+@media (max-width: 400px) { 
+
+}
